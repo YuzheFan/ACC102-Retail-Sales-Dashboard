@@ -250,7 +250,7 @@ Future improvements could include using more recent data, adding forecasting fun
 
 
 
-Demo video link: To be added after recording.
+Demo video link:Submitted separately through LMO / Mediasite Video Submission. https://video.xjtlu.edu.cn/Mediasite/MyMediasite/presentations/932d7722cb484f30814fb76d4499bb4a1d
 
 
 
