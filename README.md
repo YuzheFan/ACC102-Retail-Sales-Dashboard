@@ -258,5 +258,5 @@ Demo video link: To be added after recording.
 
 
 
-GitHub repository link: To be added after final upload.
+GitHub repository link: https://github.com/YuzheFan/ACC102-Retail-Sales-Dashboard
 
